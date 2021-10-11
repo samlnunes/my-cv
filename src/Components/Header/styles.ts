@@ -1,9 +1,17 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-  padding: 75px 160px;
+  padding: 75px 115px 75px 160px;
   display: flex;
   justify-content: space-between;
+
+  @media only screen and (max-width: 1200px) {
+    width: 100%;
+    display: flex;
+    padding: 20px 0 0 10px;
+    justify-content: center;
+    margin-bottom: 40px;
+  }
 `;
 
 export const Infos = styled.div`
@@ -17,6 +25,9 @@ export const Infos = styled.div`
     color: #ddd;
     font-weight: 500;
     font-size: 20px;
+  }
+  @media only screen and (max-width: 1200px) {
+    text-align: center;
   }
 `;
 
@@ -33,5 +44,9 @@ export const Menu = styled.nav`
     margin-left: 30px;
     text-decoration: none;
     letter-spacing: 1px;
+  }
+
+  @media only screen and (max-width: 1200px) {
+    display: none;
   }
 `;
