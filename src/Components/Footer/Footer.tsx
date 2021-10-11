@@ -16,11 +16,8 @@ const Footer: React.FC = () => {
         </p>
       </BoxInfos>
       <BoxInfos>
-        <a href="https://www.instagram.com/samlnunes/">
+        <a href="https://www.instagram.com/mmalusena_/">
           <SiInstagram />
-        </a>
-        <a href="https://www.linkedin.com/in/samlnunes/">
-          <SiLinkedin />
         </a>
       </BoxInfos>
     </Container>

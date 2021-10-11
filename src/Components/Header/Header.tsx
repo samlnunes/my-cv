@@ -6,8 +6,8 @@ const Header: React.FC = () => {
   return (
     <Container>
       <Infos>
-        <h1>SAMUEL LEITE NUNES</h1>
-        <h2>DEV</h2>
+        <h1>MALU SENA</h1>
+        <h2>TEACHER</h2>
       </Infos>
       <Menu>
         <ul>

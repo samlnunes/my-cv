@@ -8,16 +8,16 @@ const Block01: React.FC = () => {
   return (
     <Container>
       <Card
-        src="https://images.squarespace-cdn.com/content/v1/530ce101e4b0ad38dc397cb5/1550452157054-7QRJDCUGVEJAZRCDHXP8/leao1-web.jpg"
-        text="LEÃO"
+        src="https://uploaddeimagens.com.br/images/003/476/258/full/image1.jpg?1633981281"
+        text="MALU"
       />
       <Card
-        src="https://images.squarespace-cdn.com/content/v1/530ce101e4b0ad38dc397cb5/1550452654653-96VQ4GDLSRT4DTQP7RWD/elefante01.jpg"
-        text="ELEFANTE"
+        src="https://uploaddeimagens.com.br/images/003/476/259/full/image2.jpg?1633981319"
+        text="GOSTOSA"
       />
       <Card
-        src="https://images.squarespace-cdn.com/content/v1/530ce101e4b0ad38dc397cb5/1550452416142-O74L1M8PPMAVUQJMOPZC/leoa2-web.jpg"
-        text="LEOA"
+        src="https://uploaddeimagens.com.br/images/003/476/260/full/image3.jpg?1633981421"
+        text="BUNDA GRANDE"
       />
     </Container>
   );
