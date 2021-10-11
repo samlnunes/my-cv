@@ -1,7 +1,7 @@
 import React from "react";
 
 import { BoxInfos, Container } from "./styles";
-import { SiInstagram, SiLinkedin } from "react-icons/si";
+import { SiInstagram } from "react-icons/si";
 
 const Footer: React.FC = () => {
   return (
