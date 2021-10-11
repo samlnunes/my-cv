@@ -16,9 +16,8 @@ export const Container = styled.div`
 
   @media only screen and (max-width: 1200px) {
     img {
-      width: auto;
-      height: auto;
-      margin: 0 10px;
+      width: 100%;
+      height: 100%;
     }
     :hover {
       opacity: 0.9;
